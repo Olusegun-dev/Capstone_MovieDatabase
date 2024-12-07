@@ -10,7 +10,7 @@ function App() {
     <>
       <div>
         <h1 className='bg-gray-900 text-white min-h-screen'>Movie Database</h1>
-        <p className='text-white'>Initial structure</p>
+        <p className='text-white'>Initial structure for movie database</p>
       </div>
     </>
   )
